@@ -10,3 +10,8 @@ Each milestone contains smaller **sub-milestones**, focused on specific developm
 - **Milestone B** → ISO-TP segmentation/reassembly (currently in progress ✅)  
 - **Milestone C** → UDS diagnostic service layer  
 - **Milestone D** → Final integration & robustness testing  
+
+## 📒 Documentation
+
+All development steps, diagrams and notes are tracked in a dedicated **Notion document**.
+🔗 [Project Notes on Notion]([LINK-AL-TUO-NOTION](https://reinvented-hour-246.notion.site/CAN-COMMUNICATION-7c70d8237d704bf4bcac146c4ff31d1f?pvs=143))
