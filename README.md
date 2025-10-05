@@ -20,5 +20,5 @@ All development steps, diagrams and notes are tracked in a dedicated **Notion do
 
 Below is a picture of the actual board connections (STM32 ↔ MCP2515 ↔ Arduino Mega):
 
-![Board connections](docs/images/collegamenti.jpg)
+![Board connections](collegamenti.jpg)
 
