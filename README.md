@@ -14,4 +14,4 @@ Each milestone contains smaller **sub-milestones**, focused on specific developm
 ## 📒 Documentation
 
 All development steps, diagrams and notes are tracked in a dedicated **Notion document**.
-🔗 [Project Notes on Notion]([LINK-AL-TUO-NOTION](https://reinvented-hour-246.notion.site/CAN-COMMUNICATION-7c70d8237d704bf4bcac146c4ff31d1f?pvs=143))
+🔗 [Project Notes on Notion](https://reinvented-hour-246.notion.site/CAN-COMMUNICATION-7c70d8237d704bf4bcac146c4ff31d1f?pvs=143)
