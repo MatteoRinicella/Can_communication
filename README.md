@@ -7,7 +7,7 @@ The project is organized into **milestones (A, B, C, D)**.
 Each milestone contains smaller **sub-milestones**, focused on specific development goals (driver setup, protocol testing, UDS implementation, etc.).
 
 - **Milestone A** → Basic CAN setup & loopback tests  
-- **Milestone B** → ISO-TP segmentation/reassembly (currently in progress ✅)  
+- **Milestone B** → ISO-TP segmentation/reassembly  
 - **Milestone C** → UDS diagnostic service layer  
 - **Milestone D** → Final integration & robustness testing  
 
